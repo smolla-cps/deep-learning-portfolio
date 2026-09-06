@@ -21,7 +21,7 @@ The notebook progresses from dataset preparation and synchronized image-mask aug
 ## Repository Structure
 
 ```text
-5. Image Segmentation/
+8. Image Segmentation/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
