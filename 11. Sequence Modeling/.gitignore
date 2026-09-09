@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+*.keras
+*.h5
+glove.6B.zip
+glove.6B.*d.txt
