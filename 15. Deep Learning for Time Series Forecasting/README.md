@@ -426,9 +426,9 @@ The educational models are intentionally much smaller than production forecastin
         ↓
 14. Generative Deep Learning
         ↓
-15. Time Series Foundations
+    Time Series Foundations
         ↓
-16. Deep Learning for Time Series Forecasting
+15. Deep Learning for Time Series Forecasting
 ```
 
 This completes the temporal learning progression from basic forecasting formulation to modern pretrained temporal models.
