@@ -1,6 +1,6 @@
-# 16. Deep Learning for Time Series Forecasting
+# 15. Deep Learning for Time Series Forecasting
 
-This portfolio section continues directly from **15. Time Series Foundations**.
+This portfolio section continues directly from ** Time Series Foundations** directory.
 
 The previous folder established how a forecasting problem must be structured:
 
