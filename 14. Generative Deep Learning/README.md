@@ -263,16 +263,4 @@ For quick verification, reduce the number of epochs. For final portfolio results
 - reverse diffusion sampling,
 - model comparison and failure analysis.
 
-## Position in the Deep Learning Portfolio
 
-```text
-12. Attention and Transformer Architectures
-        ↓
-13. Large Language Models
-        ↓
-14. Generative Deep Learning
-        ↓
-15. Graph Neural Networks
-```
-
-This section begins the specialized/advanced Deep Learning portion of the portfolio.
