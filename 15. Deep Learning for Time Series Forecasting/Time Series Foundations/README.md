@@ -285,16 +285,5 @@ The notebooks also generate:
 - walk-forward validation,
 - uncertainty and interval coverage.
 
-## Position in the Deep Learning Portfolio
-
-```text
-13. Large Language Models
-        ↓
-14. Generative Deep Learning
-        ↓
-15. Time Series Foundations
-        ↓
-16. Deep Learning for Time Series Forecasting
-```
 
 The next section will apply Dense networks, 1D CNNs, RNNs, LSTMs, GRUs, TCNs, Transformers, and Time-Series Foundation Models to the forecasting framework developed here.
