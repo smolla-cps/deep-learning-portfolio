@@ -1,0 +1,11 @@
+torch>=2.2
+transformers>=4.45
+datasets>=2.19
+peft>=0.12
+accelerate>=0.34
+sentence-transformers>=3.0
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+sentencepiece>=0.2
