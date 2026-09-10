@@ -178,4 +178,4 @@ A reviewer should be able to see that the portfolio goes beyond API usage. It de
 
 ## Natural Next Step
 
-After this core LLM section, an optional advanced portfolio folder could cover **instruction tuning at scale, DPO/preference optimization, tool use, LLM agents, advanced RAG, multimodal models, quantization, and serving**. Those topics are intentionally excluded here so the foundational learning progression remains clean.
+After this core LLM section, an optional advanced portfolio folder could cover **instruction tuning at scale, DPO/preference optimization, tool use, LLM agents, advanced RAG, multimodal models, quantization, and serving**. 
