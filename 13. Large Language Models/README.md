@@ -141,20 +141,6 @@ Topics include:
 - retrieval vs generation failure analysis,
 - advanced RAG extensions.
 
-## Portfolio Design Philosophy
-
-The notebooks are intentionally written in a **learning-first style**:
-
-1. explain the concept before the code,
-2. use small manual examples before abstractions,
-3. print shapes, types, IDs, logits, probabilities, and intermediate values,
-4. use explicit variable names and readable code rather than compressed one-liners,
-5. implement core mechanisms from scratch before using high-level libraries,
-6. include equations where they improve understanding,
-7. visualize system architecture and learning progression,
-8. interpret results instead of reporting only final outputs,
-9. discuss limitations and failure cases,
-10. connect every notebook to the next stage of the progression.
 
 ## Suggested Environment
 
