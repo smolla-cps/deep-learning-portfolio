@@ -54,7 +54,7 @@ Prediction Uncertainty
 ## Repository Structure
 
 ```text
-15. Time Series Foundations/
+Time Series Foundations/
 │
 ├── README.md
 ├── requirements.txt
@@ -67,13 +67,6 @@ Prediction Uncertainty
 ├── data/
 │   ├── README.md
 │   └── synthetic_hourly_demand.csv
-│
-└── images/
-    ├── 01_time_series_learning_progression.png
-    ├── 02_time_series_components.png
-    ├── 03_temporal_split.png
-    ├── 04_sliding_window.png
-    └── 05_forecasting_evaluation.png
 ```
 
 ## Notebook 1 — Time Series Structure and Exploration From Scratch
