@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+torch
+
+# Optional:
+# The final notebook contains an optional TimesFM foundation-model section.
+# Install the current TimesFM package according to the official
+# google-research/timesfm repository before running those cells.
