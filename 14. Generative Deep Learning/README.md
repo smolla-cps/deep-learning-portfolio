@@ -39,13 +39,7 @@ Iterative denoising generation
 │
 ├── data/
 │   └── README.md
-│
-└── images/
-    ├── 01_generative_learning_progression.png
-    ├── 02_vae_pipeline.png
-    ├── 03_gan_pipeline.png
-    ├── 04_diffusion_pipeline.png
-    └── 05_compare_generative_models.png
+
 ```
 
 ## Notebook 1 — Variational Autoencoders From Scratch
