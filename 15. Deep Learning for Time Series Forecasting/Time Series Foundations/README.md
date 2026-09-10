@@ -1,4 +1,4 @@
-# 15. Time Series Foundations
+# Time Series Foundations
 
 This portfolio section develops the foundations required before applying deep-learning models to forecasting.
 
