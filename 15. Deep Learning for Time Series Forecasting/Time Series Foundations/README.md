@@ -14,7 +14,8 @@ A valid forecasting workflow requires understanding temporal structure, chronolo
 
 ## Learning Progression
 
-![Time-series learning progression](images/01_time_series_learning_progression.png)
+<img width="2682" height="614" alt="01_time_series_learning_progression" src="https://github.com/user-attachments/assets/8578aa20-a5f4-4f89-9cf8-6917d6b3e5d3" />
+
 
 ```text
 Time Index
