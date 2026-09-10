@@ -241,19 +241,6 @@ The next folder answers:
 
 Separating the two sections makes the learning progression visible.
 
-## Coding Style
-
-The notebooks preserve the same learning-first style used across the Deep Learning portfolio:
-
-- explanatory Markdown before important code,
-- simple explicit operations first,
-- manual implementation before convenience functions,
-- clear variable names,
-- intermediate values and shapes printed,
-- equations when they improve understanding,
-- interpretation after visualizations,
-- limitations and leakage warnings,
-- connection to the next topic.
 
 ## Visual Explanations
 
