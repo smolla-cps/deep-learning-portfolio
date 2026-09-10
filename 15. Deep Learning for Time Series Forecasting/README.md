@@ -67,14 +67,7 @@ Zero-Shot Forecasting
 ├── data/
 │   ├── README.md
 │   └── synthetic_hourly_demand.csv
-│
-└── images/
-    ├── 01_deep_time_series_progression.png
-    ├── 02_sequence_input_shapes.png
-    ├── 03_tcn_architecture.png
-    ├── 04_multistep_forecasting.png
-    ├── 05_transformer_forecasting.png
-    └── 06_foundation_model_forecasting.png
+
 ```
 
 # Notebook 1 — Dense, CNN, RNN, LSTM, and GRU Forecasting
