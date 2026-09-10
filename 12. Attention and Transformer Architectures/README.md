@@ -18,6 +18,7 @@ This portfolio section develops the progression from recurrent sequence-model li
 ├── 01_attention_fundamentals_query_key_value.ipynb
 ├── 02_self_attention_multihead_positional_encoding.ipynb
 └── 03_transformer_encoder_decoder_text_classification.ipynb
+└── 04_gutenberg_transformer_hyperparameters_pretrained_embeddings
 ```
 
 ## Learning Progression
