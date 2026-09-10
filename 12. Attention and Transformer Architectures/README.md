@@ -9,12 +9,7 @@ This portfolio section develops the progression from recurrent sequence-model li
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── images/
-│   ├── 01_recurrent_bottleneck_vs_attention.png
-│   ├── 02_query_key_value.png
-│   ├── 03_self_attention.png
-│   ├── 04_multi_head_attention.png
-│   └── 05_transformer_encoder_decoder.png
+│  
 ├── 01_attention_fundamentals_query_key_value.ipynb
 ├── 02_self_attention_multihead_positional_encoding.ipynb
 └── 03_transformer_encoder_decoder_text_classification.ipynb
