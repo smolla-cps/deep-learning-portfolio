@@ -44,14 +44,7 @@ LLM Evaluation and Failure Analysis
 │
 ├── data/
 │   └── README.md
-│
-└── images/
-    ├── 01_llm_learning_progression.png
-    ├── 02_causal_language_modeling.png
-    ├── 03_gpt_architecture.png
-    ├── 04_pretrained_inference.png
-    ├── 05_lora.png
-    └── 06_rag_pipeline.png
+
 ```
 
 ## Notebook 1 — Causal Language Modeling and GPT From Scratch
