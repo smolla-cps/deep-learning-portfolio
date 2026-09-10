@@ -240,7 +240,7 @@ Google Colab is recommended.
 
 A GPU is useful for the GAN and diffusion notebooks, although the models are intentionally kept small enough to remain educational and manageable.
 
-For quick verification, reduce the number of epochs. For final portfolio results, increase training and save representative outputs.
+For quick verification, reduce the number of epochs. For final results, increase training and save representative outputs.
 
 ## Skills Demonstrated
 
