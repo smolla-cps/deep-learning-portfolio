@@ -336,21 +336,6 @@ The dataset is intentionally manageable so every model can be trained in a noteb
 
 A later applied project can repeat the same methodology on a real forecasting dataset.
 
-## Coding Style
-
-The notebooks follow the same learning-first style as the rest of the Deep Learning portfolio:
-
-- Markdown explanation before important code,
-- explicit early code rather than compressed one-liners,
-- manual tensor inspection,
-- clear variable names,
-- intermediate shapes printed,
-- architecture components introduced one at a time,
-- reusable training functions only after the underlying model structure is visible,
-- equations where they clarify the forecasting mechanism,
-- plots followed by interpretation,
-- limitations stated explicitly,
-- connections between notebooks.
 
 ## Visual Explanations
 
