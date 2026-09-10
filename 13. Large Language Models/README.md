@@ -166,7 +166,7 @@ pip install -r requirements.txt
 
 ## What This Folder Demonstrates
 
-A reviewer should be able to see that the portfolio goes beyond API usage. It demonstrates understanding of:
+ It demonstrates understanding of:
 
 - how causal language models learn,
 - how GPT-style decoder networks are assembled,
