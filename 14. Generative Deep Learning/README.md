@@ -216,26 +216,7 @@ Discriminator
 
 The adversarial game is used to learn a data distribution for generation rather than to attack a classifier.
 
-## Coding Style
 
-The notebooks intentionally preserve a learning-first coding style.
-
-Early sections use explicit intermediate variables, for example:
-
-```python
-mu = 1.5
-log_variance = -0.7
-
-variance = np.exp(log_variance)
-
-standard_deviation = np.exp(
-    0.5 * log_variance
-)
-```
-
-rather than compressing several conceptual operations into one line.
-
-As the notebooks progress into complete neural architectures, classes and reusable functions are introduced only after the underlying mechanism has been explained.
 
 ## Visual Explanations
 
