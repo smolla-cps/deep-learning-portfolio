@@ -54,7 +54,7 @@ Zero-Shot Forecasting
 
 ```text
 16. Deep Learning for Time Series Forecasting/
-├── 
+├── Time Series Foundations
 │
 ├── README.md
 ├── requirements.txt
