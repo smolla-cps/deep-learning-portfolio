@@ -19,7 +19,8 @@ The emphasis is not simply on obtaining a low RMSE. The notebooks compare how di
 
 ## Learning Progression
 
-![Deep time-series progression](images/01_deep_time_series_progression.png)
+<img width="2862" height="650" alt="01_deep_time_series_progression" src="https://github.com/user-attachments/assets/dc0bb909-f041-4083-a6ef-534ad14b6943" />
+
 
 ```text
 Seasonal Baseline
